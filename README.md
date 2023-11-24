@@ -1,4 +1,4 @@
-##To Run this script:
+## To Run this script:
 
 ```sh
 python3 Train.py
